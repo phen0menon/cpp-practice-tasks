@@ -1,0 +1,3 @@
+[*.{cpp,c,cs,editorconfig}]
+indent_style = space
+indent_size = 2
